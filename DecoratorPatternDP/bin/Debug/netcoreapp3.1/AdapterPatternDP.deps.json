@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdapterPatternDP/1.0.0": {
+        "runtime": {
+          "AdapterPatternDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdapterPatternDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

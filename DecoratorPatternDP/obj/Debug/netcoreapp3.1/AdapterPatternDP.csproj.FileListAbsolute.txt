@@ -1,0 +1,13 @@
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\bin\Debug\netcoreapp3.1\AdapterPatternDP.exe
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\bin\Debug\netcoreapp3.1\AdapterPatternDP.deps.json
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\bin\Debug\netcoreapp3.1\AdapterPatternDP.runtimeconfig.json
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\bin\Debug\netcoreapp3.1\AdapterPatternDP.runtimeconfig.dev.json
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\bin\Debug\netcoreapp3.1\AdapterPatternDP.dll
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\bin\Debug\netcoreapp3.1\AdapterPatternDP.pdb
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.AssemblyInfoInputs.cache
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.AssemblyInfo.cs
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.csproj.CoreCompileInputs.cache
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.dll
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.pdb
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.genruntimeconfig.cache
+C:\Users\vin24\source\repos\AdapterPattern\AdapterPatternDP\obj\Debug\netcoreapp3.1\AdapterPatternDP.csprojAssemblyReference.cache
